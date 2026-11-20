@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.Vector/01.Vector.vcxproj" Id="df647251-e47c-4298-a80c-ba3ae0cd5fd4" />
+  <Project Path="02.Iterators/02.Iterators.vcxproj" Id="315363b6-ac2c-4464-a4f2-c2c48f874847" />
+  <Project Path="HomeWork39/HomeWork39.vcxproj" Id="7b448937-272a-42de-b820-2236a7ca163d" />
+</Solution>
